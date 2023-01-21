@@ -4,4 +4,4 @@ You have found me in such a weird place! Funny how these things happen, am I rig
 
 The best place to find out more about me is *[muh website](https://chaz.sicksubroutine.com).*
 
-Learning about game dev, learning Lua, learning Javascript, playing with building a raycasting engine? Why not? Hopefully I continue to pursue what my instincts pull me towards.
+As of Jan 2023: My current primary focus is Python/Flask with some practice in JavaScript/HTML/CSS. Long term goals still revolve around game dev but becoming a more comptent programmer is the short term goal. Meditum term goals involve getting better at C based languages and making my third game. 
