@@ -4,7 +4,7 @@ You have found me in such a weird place! Funny how these things happen, am I rig
 
 The best place to find out more about me is *[muh website](https://sicksubroutine.com).*
 
-As of August 2023, I'm currently focusing primarily on game dev. Most of my current work is on graphics programming within Pyton/Pygame with some other practice in C/C++/Unreal and Pico 8.
+As of Sept 2023, I'm currently focusing primarily on game dev. Most of my current work is on graphics programming within Pyton/Pygame with some other practice in C/C++/Unreal and Pico 8.
 
 Current project: 3D Engine/Raycasting Engine and a grid based Map Editor that works in both.
 
